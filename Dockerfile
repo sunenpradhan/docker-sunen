@@ -2,7 +2,7 @@ FROM ubuntu:20.04
 
 LABEL maintainer="Pascal Watteel" \
       name="my_minecraft_server" \
-      version="0.1"
+      version="1.0"
 
 #set env variables
 ENV DEBIAN_FRONTEND noninteractive
